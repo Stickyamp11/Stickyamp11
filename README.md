@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel. I'm a Software Engineer
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate in software development
 - 📫 You can reach me here: Stickyamp@hotmail.com
 
 <!---
